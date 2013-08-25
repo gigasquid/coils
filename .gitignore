@@ -1,0 +1,9 @@
+
+
+!/project.clj
+!/.gitattributes
+!/.gitignore
+!/.README.md
+
+
+.DS_Store
